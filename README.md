@@ -15,7 +15,7 @@ This project was built to learn and demonstrate two powerful Python libraries fo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/aayush-0131/dev-joke-cli.git](https://github.com/aayush-0131/dev-joke-cli.git)
+    git clone [https://github.com/YOUR_USERNAME/dev-joke-cli.git](https://github.com/YOUR_USERNAME/dev-joke-cli.git)
     cd dev-joke-cli
     ```
 
